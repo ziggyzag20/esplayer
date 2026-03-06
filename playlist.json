@@ -10,5 +10,17 @@
   {
     "name": "ByteThrash (Boss)",
     "file": "bytethrash.txt"
+  },
+  {
+    "name": "Nightmare (Speed)",
+    "file": "nightmare.txt"
+  },
+  {
+    "name": "The Abyss (Ind)",
+    "file": "abyss.txt"
+  },
+  {
+    "name": "Phantom (Arp)",
+    "file": "phantom.txt"
   }
 ]

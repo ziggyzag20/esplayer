@@ -1,0 +1,1 @@
+IronBite:d=8,o=4,b=180:e,e,g,e,e,a,e,e,b,c5,b,a,e,e,g,e,e,a,e,e,f#,g,f#,d,e,e,g,e,e,a,e,e,b,c5,b,a,c5,b,a,g,f#,g,a,b,16e,16e,16e,16e,g,16e,16e,16e,16e,a,16e,16e,16e,16e,b,c5,b,a,2e5,2d5,2b,2a,e,e,g,e,e,a,e,e,b,c5,b,a,2e

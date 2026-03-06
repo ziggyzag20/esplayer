@@ -1,0 +1,1 @@
+Abyss:d=16,o=4,b=240:c,c,d#,c,f,c,f#,c,g,c,f#,c,f,c,d#,c,c,c,d#,c,f,c,f#,c,g,c,f#,c,f,c,d#,c,c,c,d#,c,f,c,f#,c,2g

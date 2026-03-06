@@ -1,3 +1,14 @@
 [
-  { "name": "Melody Testing", "file": "melody.txt" }
+  {
+    "name": "IronBite (Thrash)",
+    "file": "ironbite.txt"
+  },
+  {
+    "name": "SkullCrusher (Doom)",
+    "file": "skullcrusher.txt"
+  },
+  {
+    "name": "ByteThrash (Boss)",
+    "file": "bytethrash.txt"
+  }
 ]
